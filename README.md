@@ -27,3 +27,6 @@
    - views are resolved in Spring MVC by the controller building a MODEL that it passes to a VIEW RESOLVER which then
    determine the correct view to display and chooses the appropriate view off that request
    - we can create our own ViewResolver
+# Resolving Static Files
+   - hosting static files within inside our spring mvc app
+   - security, logged in, caching stuff
